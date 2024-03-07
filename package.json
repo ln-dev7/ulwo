@@ -1,0 +1,28 @@
+{
+  "name": "ulwo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^4.0.7",
+    "firebase": "^9.12.1",
+    "firebaseui": "^6.0.1",
+    "sass": "^1.55.0",
+    "uuid": "^9.0.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5",
+    "vuefire": "^2.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "node-sass": "^7.0.3",
+    "sass": "^1.32.7",
+    "sass-loader": "^13.1.0",
+    "vite": "^3.1.0"
+  }
+}

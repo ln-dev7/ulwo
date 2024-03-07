@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Birthstone&family=Poppins:wght@300;400;500;600;700;800;900&family=Grey+Qo&family=Parisienne&family=Roboto:wght@300;400&family=Ubuntu:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Whisper&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+$dark: #050a30;
+$ligth: #f4f7f6;
+$white: #fff;
+$gray: #e6eaea;
+$black: black;
+
+$purple: #a94dfc;
+
+$default: #172b4d;
+$primary: #233dff;
+$success: #2dce89;
+$info: #11cdef;
+$danger: #f5365c;
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  color: $dark;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  transition: 0.3s ease-in-out;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+// li {
+//   list-style: none;
+// }
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+body {
+  background-color: $white;
+  overflow-x: hidden;
+}
