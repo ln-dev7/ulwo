@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "^4.0.7",
-    "firebase": "^9.12.1",
+    "firebase": "^10.9.0",
     "firebaseui": "^6.0.1",
     "sass": "^1.55.0",
     "uuid": "^9.0.0",
