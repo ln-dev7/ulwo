@@ -16,7 +16,7 @@
     "uuid": "^9.0.0",
     "vue": "^3.2.37",
     "vue-router": "^4.1.5",
-    "vuefire": "^2.2.5"
+    "vuefire": "^3.1.24"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",
